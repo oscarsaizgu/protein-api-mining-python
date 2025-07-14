@@ -4,7 +4,7 @@ This repository contains a complete Python workflow for mining biological and ch
 
 ## Project Structure
 
-- `scripts/activity_api_mining.py`: Python script implementing the full pipeline
+- `scripts/protein_data_mining.py`: Python script implementing the full pipeline
 - `heteromolecules.sdf`: Output file with molecular data in SDF format
 - `README.md`: Project documentation
 
